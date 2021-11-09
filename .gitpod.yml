@@ -1,2 +1,5 @@
-image:
-  file: .gitpod.Dockerfile
+image: gitpod/workspace-full
+
+tasks:
+  - init: |
+      npm install
