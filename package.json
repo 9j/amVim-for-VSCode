@@ -1,7 +1,7 @@
 {
     "name": "amvim",
     "version": "1.34.1-pre",
-    "publisher": "auiworks",
+    "publisher": "9j",
     "icon": "images/icon.png",
     "displayName": "amVim",
     "description": "The Vim mode for Visual Studio Code that works as expected.",
